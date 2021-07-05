@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Instalaciones utilizadas 
+
+  * [socket.io-client](https://www.npmjs.com/package/socket.io-client)
+  * [moment](https://momentjs.com/)
+  * [sweetalert2](https://sweetalert2.github.io/)
+  * [react-scroll](https://www.npmjs.com/package/react-scroll)
+
+## React Router
+### `npm install react-router-dom`
+
+## React Scripts 
+
+### `versión 4.0.3`
+
 ## Available Scripts
 
 In the project directory, you can run:
